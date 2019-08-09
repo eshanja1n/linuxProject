@@ -1,6 +1,3 @@
-I am having trouble connecting to server on port 2200. I entered Port 2200 in my sshd_config file, but I keep getting a timeout error every time. Do you have any suggestions?
-
-Also, whenever you go to the url, I keep getting the Apache default page. I've copied my ItemCatalog github repo, but how to I display the ItemCatalog instead of the Apache page?
 
 
 **IP Address:** 54.244.8.32
